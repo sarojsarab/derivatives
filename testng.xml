@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Derivative Automation Suite" parallel="methods" group-by-instances="true">
+
+  <test name="PENTAGON">
+    <classes>
+            <class name="test.java.pentagon.tests.OpenOrderApiTests"/>
+    </classes>
+  </test>
+
+</suite>

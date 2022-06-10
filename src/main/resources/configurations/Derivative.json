@@ -1,0 +1,12 @@
+{
+  "DEV": {
+    "pentagon": {
+      "host": ""
+    }
+  },
+  "QA": {
+    "pentagon": {
+      "host": ""
+    }
+  }
+}
